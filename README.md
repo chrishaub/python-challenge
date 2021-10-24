@@ -39,5 +39,5 @@
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-* In addition, the final script both printed the analysis to the terminal and exporeted a text file with the results.
+* In addition, the final script both printed the analysis to the terminal and exported a text file with the results.
 
